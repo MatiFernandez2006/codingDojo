@@ -4,6 +4,9 @@
                 Produce             =    ["manzanas", "naranjas"]
                 Frozen              =    ["brócoli", "helado"]
                 Frozen.push                         ("croqueta de papa")
+                movieLibrary        =    ["Bambi", "E.T.", "Toy Story"];
+                movieLibrary.push   =    ("Zoro");
+                movieLibrary[1]     =    "Beetlejuice";
               */
 
 function muestraInformaciónContacto() {
